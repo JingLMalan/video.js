@@ -1,5 +1,5 @@
 ![Video.js logo][logo]
-
+一款用于定制Video的javascript库
 # [Video.js - HTML5 Video Player][vjs]
 
 [![Build Status][travis-icon]][travis-link]
